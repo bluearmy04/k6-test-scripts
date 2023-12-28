@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "username": "test__k6__io_decuser_riyad1",
+      "password": "secret_user_riyad1"
+    },
+    {
+      "username": "test__k6__io_decuser_riyad2",
+      "password": "secret_user_riyad2"
+    },
+    {
+      "username": "test__k6__io_decuser_riyad3",
+      "password": "secret_user_riyad3"
+    },
+    {
+      "username": "test__k6__io_decuser_riyad4",
+      "password": "secret_user_riyad4"
+    },
+    {
+      "username": "test__k6__io_decuser_riyad5",
+      "password": "secret_user_riyad5"
+    },
+    {
+      "username": "test__k6__io_decuser_riyad6",
+      "password": "secret_user_riyad6"
+    },
+    {
+      "username": "test__k6__io_decuser_riyad7",
+      "password": "secret_user_riyad7"
+    },
+    {
+      "username": "test__k6__io_decuser_riyad8",
+      "password": "secret_user_riyad8"
+    },
+    {
+      "username": "test__k6__io_decuser_riyad9",
+      "password": "secret_user_riyad9"
+    },
+    {
+      "username": "test__k6__io_decuser_riyad10",
+      "password": "secret_user_riyad10"
+    }
+  ]
+}

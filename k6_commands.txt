@@ -1,0 +1,8 @@
+k6 run first-script.js -o cloud -> Save output in cloud grafana
+k6 cloud first-script.js -> run directly on cloud
+k6 login cloud --token ac7ba73b7b3fce4eb7157c387aef6634698f0d71943f8766f0cf23255701712d  -> login in k6 cloud via token
+k6 run http-get.js -e BASE_URL=https://test-api.k6.io --http-debug="full" -> run base_url with debug mode
+k6 run first-script.js -o cloud -e PROJECT_ID=3675283D -> Save output in cloud grafana under specific project
+k6 run script-cli.js --vus 1 --duration 10s --iterations 1 -> overriding options by using cli params
+k6 run script-cli.js --vus 1 --iterations 1 --insecure-skip-tls-verify -> avoid ssl certification error site
+k6 run script-cli.js --summary-export=summary.json -> export summary of k6 test result
